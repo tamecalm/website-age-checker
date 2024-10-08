@@ -1,0 +1,13 @@
+{
+  "name": "website-age-checker",
+  "version": "1.0.0",
+  "description": "A script to check the age of a website and retrieve registration details.",
+  "main": "run-script.js",
+  "scripts": {
+    "start": "node run-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@tamecalm",
+  "license": "MIT",
+  "dependencies": {}
+}
