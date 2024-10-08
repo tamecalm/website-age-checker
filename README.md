@@ -12,12 +12,15 @@ The **Website Age Checker** is a Bash script that retrieves the age and registra
 
 ## Prerequisites
 
-- A Unix-like operating system (Linux, macOS)
+- A Unix-like operating system (Linux, macOS, Termux)
 - Bash shell
 - `whois` command line tool
+- [Node.js](https://nodejs.org/en/download/) (version X.X.X or later)
+- [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
 
-### Installation
+## Installation
 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/website-age-checker.git
+   cd website-age-checker
