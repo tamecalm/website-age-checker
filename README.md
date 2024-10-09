@@ -25,5 +25,8 @@ The **Website Age Checker** is a Bash script that retrieves the age and registra
    ```bash
    git clone https://github.com/YOUR_USERNAME/website-age-checker.git
    cd website-age-checker
+### Donations ❤️❤️
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="tamecalm" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
 ### Support & Updates ❤️❤️
 <a href="https://t.me/devforum"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Error Explorer"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
