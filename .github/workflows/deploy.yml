@@ -28,7 +28,7 @@ jobs:
       run: npm start
 
     - name: Upload website_info.html
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: website_info
         path: website_info.html
