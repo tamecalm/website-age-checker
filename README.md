@@ -1,4 +1,5 @@
 # Website Age Checker
+[![Website Age Checker Workflow](https://github.com/tamecalm/website-age-checker/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/tamecalm/website-age-checker/actions/workflows/deploy.yml)
 
 The **Website Age Checker** is a Bash script that retrieves the age and registration details of a specified website. It outputs the information in a well-formatted HTML file, making it easy to read and understand.
 
